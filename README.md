@@ -21,8 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrW0LFHACK&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrW0LFHACK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 ПУСТОТА:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrW0LFHACK&show_icons=true&theme=radical)
 ## 🌟 Special 3D Contribution Graph
 [![3D Contribution](https://github-readme-3d-contributions.vercel.app/api?username=mrW0LFHACK&text=I%20LOVE%20U&theme=radical)](https://github.com/mrW0LFHACK)
 ## 🏆 GitHub Trophies
