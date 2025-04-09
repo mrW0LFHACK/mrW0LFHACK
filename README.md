@@ -17,9 +17,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MRWOLFHACK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MRWOLFHACK&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRWOLFHACK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mrW0LFHACK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrW0LFHACK&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrW0LFHACK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📈 GitHub Activity Graph:
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?mrW0LFHACK)
+
 # 📊 ПУСТОТА:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrW0LFHACK&show_icons=true&theme=radical)
 ## 🌟 Special 3D Contribution Graph
